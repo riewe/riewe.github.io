@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="lt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privatumo politika — LEVERANA Driver</title>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.6; padding: 20px; max-width: 800px; margin: 0 auto; color: #333; }
+        h1, h2 { color: #111; }
+    </style>
+</head>
+<body>
+    <h1>Privatumo politika</h1>
+    <p>Paskutinio atnaujinimo data: 2026 m. lapkričio 11 d.</p>
+    
+    <p>Ši Privatumo politika aprašo, kaip programėlė <strong>LEVERANA Driver</strong> (toliau — „Programėlė“) tvarko naudotojų informaciją.</p>
+
+    <h2>1. Naudotojo duomenų rinkimas ir saugojimas</h2>
+    <p>Programėlė <strong>LEVERANA Driver</strong> yra sukurta remiantis „Offline-First“ principu. Visi asmens duomenys, pamainų žurnalai, duomenys apie degalų pylimą, kadencijas ir kiti techniniai parametrai, kuriuos įveda naudotojui, yra saugomi tik lokaliai jūsų įrenginyje (lokalioje programėlės duomenų bazėje). Mes neperduodame, nerenkame ir nesaugome jūsų naudotojo duomenų išoriniuose serveriuose.</p>
+
+    <h2>2. Reklamos paslaugos (Start.io)</h2>
+    <p>Siekiant užtikrinti nemokamą prieigą prie Programėlės, joje yra integruotas <strong>Start.io (StartApp)</strong> reklamos modulis. „Start.io“ modulis gali automatiškai rinkti nuasmenintą techninę informaciją, skirtą atitinkamiems reklamos skelbimams parinkti ir rodyti.</p>
+    <p>Ši informacija gali apimti:</p>
+    <ul>
+        <li>IP adresą ir apytikslę vietovę (geografinę vietos nuorodą šalies / miesto lygmeniu);</li>
+        <li>Įrenginio identifikatorius (pavyzdžiui, „Android Advertising ID“ / AAID);</li>
+        <li>Technines įrenginio charakteristikas (modelį, OS versiją, sistemos kalbą);</li>
+        <li>Duomenis apie sąveiką su reklama (peržiūras, paspaudimus).</li>
+    </ul>
+    <p>Su „Start.io“ privatumo politika galite susipažinti paspaudę šią nuorodą: <a href="https://www.start.io/policy/privacy-policy/" target="_blank">Start.io Privacy Policy</a>.</p>
+
+    <h2>3. Duomenų saugumas</h2>
+    <p>Mes imamės visų būtinų priemonių jūsų duomenims apsaugoti „Android“ operacinės sistemos lygmeniu. Kadangi visi duomenys saugomi lokaliai jūsų įrenginyje, jų saugumas taip pat priklauso nuo paties įrenginio fizinio saugumo.</p>
+
+    <h2>4. Privatumo politikos pakeitimai</h2>
+    <p>Mes galime kartkartėmis atnaujinti šią Privatumo politiką. Pakeitimai įsigalioja nuo jų paskelbimo šiame puslapyje momento.</p>
+
+    <h2>5. Kontaktai</h2>
+    <p>Jei turite klausimų dėl Programėlės veikimo arba šios Privatumo politikos, galite susisiekti su mumis el. paštu: <strong>vicriewe@gmail.com</strong></p>
+</body>
+</html>
